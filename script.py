@@ -1,6 +1,6 @@
 # V 1.0, March 2023
 # Maxime Cruzel
-# Generate a xlm set of feedback questions about competencies mastering
+# Generate a xml set of feedback questions about competencies mastering
 
 scale = {
     1 : "lvl 1",
